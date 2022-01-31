@@ -7,7 +7,7 @@ You should clone this git repository in the specific place the game executable w
 On Windows, it would be %LOCALAPPDATA%\2K Games\Mafia II\Saves\
 On Linux with SteamPlay, 
 ```
-/home/enoch/.local/share/Steam/steamapps/compatdata/50130/pfx/drive_c/users/steamuser/AppData/Local/2K Games/Mafia II/
+~/.local/share/Steam/steamapps/compatdata/50130/pfx/drive_c/users/steamuser/AppData/Local/2K Games/Mafia II/
 ```
 
 This only recently became complicated, as it used to be more straightforward until the devs felt the need to update a 10+ year old game, just to remove some music and change the save file location.
